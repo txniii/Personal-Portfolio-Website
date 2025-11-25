@@ -66,7 +66,7 @@ export const Navbar: React.FC = () => {
               onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             >
               <img 
-                src="/M(1).png"         
+                src="M(1).png"         
                 alt="Logo" 
                 className="h-12 w-auto object-contain opacity-90 hover:opacity-100 transition-opacity duration-300"
               />
